@@ -1,8 +1,8 @@
-Gameplay
-Weapons
-Movement
-Hotkeys
-Comms
-System
-Unbindable
+Játékmenet
+Fegyverek
+Mozgás
+Gyorsbillentyűk
+Kommunikáció
+Rendszer
+Nem beállítható
 SCP-079

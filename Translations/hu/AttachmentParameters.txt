@@ -1,21 +1,21 @@
-ADS zoom
+ADS nagyítás
 ---
-Damage
-Penetration
-Fire rate
-Recoil
-Recoil when aiming
-Bullet accuracy
-Hip-firing accuracy
-Aiming accuracy
-Equip time
-Gunshot loudness
-Magazine capacity
-Equip time
-Reload time
+Sebzés
+Átütés
+Tűzgyorsaság
+Visszarúgás
+Visszarúgás célzás közben
+Lőszer pontossága
+Csípőtüzelési pontosság
+Célzási pontosság
+Felszerelési gyorsaság
+Lövés hangossága
+Tár kapacitása
+Felszerelési idő
+Újratöltési idő
 ---
-Aiming speed
-Pellet spread
-Pattern consistency
-Projectiles number
-Reload speed
+Célzási idő
+Sörétek szórása
+Szórási minta kiszámíthatósága
+Lövetek száma
+Újratöltési sebesség

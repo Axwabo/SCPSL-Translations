@@ -1,10 +1,10 @@
-None
-Keycard
-Medical Items
-Radio
-Firearms
-Grenades
-SCP Items
+Egyik sem
+Kulcskártya
+Orvosi Cikk
+Rádió
+Lőfegyver
+Gránát
+SCP Cikk
 Micro H.I.D.
-Ammo
-Body Armor
+Lőszer
+Golyóálló mellény
