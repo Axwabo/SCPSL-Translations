@@ -1,74 +1,74 @@
-ZOOM [amount]x
-ACCESS TIER [tier]
-EXP [current] / [next]
-MAX TIER REACHED
-NO CAMERA
-GO TO: [camera] ([cost])
-NOT ENOUGH AUXILIARY POWER
-ETA: [time] seconds
-HIGHER TIER REQUIRED
-INVALID CAMERA
-DOOR ACCESS DENIED
-OPEN DOOR ([cost])
-CLOSE DOOR ([cost])
-LOCK DOOR ([cost])
-UNLOCK DOOR
-DOOR LOCK COOLDOWN
-AUXILIARY POWER
-YOU ARE BEING ATTACKED!
-RELEASE ALL DOOR LOCKS ([num] total)
-OPEN FACILITY MAP
-CLOSE
-LIGHT CONTAINMENT ZONE
-HEAVY CONTAINMENT ZONE
-ENTRANCE ZONE
-SURFACE ZONE
-BLACKOUT ([cost])
-BLACKOUT UNAVAILABLE FOR THIS ROOM
-LIMIT OF CONCURRENT BLACKOUTS REACHED
-ROOM BLACKOUT COOLDOWN
-SEND ELEVATOR ([cost])
-LOCKDOWN ([cost])
-LOCKDOWN COOLDOWN
-NO DOORS AVAILABLE FOR LOCKDOWN
-PING LOCATION ([cost])
-PING RATE LIMIT REACHED
-CAMERA SWITCH FAILED
-SIGNAL LOST
-RECONNECTING (ETA: [time]s)
-FIRE TESLA GATE ([cost])
-TESLA GATE ACTIVATION COOLDOWN
-$Access Tier [tier]$ - UNLOCKED
-$AUXILIARY POWER$ limit increased to $[limit]$.
-$BLACKOUT$ now available - press $[key]$ to disable room lights.
-$BLACKOUT$ capacity increased to $[number]$ rooms.
-$LOCKDOWN$ now available - press $[key]$ to temporarily lock down all doors in a room.
-+[amount] EXP - Admin Command
-+[amount] EXP - Class-D Personnel termination assist
-+[amount] EXP - Scientist termination assist
-+[amount] EXP - Guard termination assist
-+[amount] EXP - Nine-Tailed Fox termination assist
-+[amount] EXP - Chaos Insurgency termination assist
-+[amount] EXP - Human termination assist
-+[amount] EXP - Witnessed termination by a teammate
-+[amount] EXP - Teammate's pursuit assist
-+[amount] EXP - Protection of teammate(s)
-+[amount] EXP - Prevented use of Micro H.I.D.
-CAMERA FEED ONLINE
-ZONE-WIDE BLACKOUT ([cost])
-$ZONE-WIDE BLACKOUT$ now available - next to zone labels on the $Facility Map$.
-ZONE-WIDE BLACKOUT COOLDOWN
-BLACKOUT ALREADY ACTIVE
-BLACKOUT UNAVAILABLE FOR THIS ZONE
-TOTAL LIFEFORMS
-TARGETS
-SCP SUBJECTS
-CIVILIAN
-MILITARY
-USE SPEAKER
-ELEVATOR ACCESS DENIED
-SCP-079 has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.
-Virtually Indestructible:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
-Unlimited Access:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time. 
-Deep Learning:Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
-Overwatch:Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter. 
+NAGYÍTÁS [amount]x
+HOZZÁFÉRÉSI SZINT [tier]
+TAPASZTALAT [current] / [next]
+MAX SZINT ELÉRVE
+NINCS KAMERA
+UGRÁS IDE: [camera] ([cost])
+NINCS ELÉG TARTALÉK ENERGIA
+ETA: [time] másodperc
+MAGASABB SZINT SZÜKSÉGES
+ISMERETLEN KAMERA
+AJTÓ HOZZÁFÉRÉS MEGTAGADVA
+AJTÓ KINYITÁSA ([cost])
+AJTÓ BECSUKÁSA ([cost])
+AJTÓ ZÁRÁSA ([cost])
+ZÁRÁS FELOLDÁSA
+AJTÓ ZÁRÁS ÚJRATÖLTŐDIK
+TARTALÉK ENERGIA
+TÁMADÁS ALATT VAGY!
+MINDEN AJTÓ LEZÁRÁSÁNAK FELOLDÁSA ([num] összesen)
+LÉTESÍTMÉNY TÉRKÉPÉNEK MEGNYITÁSA
+BEZÁR
+LIGHT CONTAINMENT ZÓNA
+HEAVY CONTAINMENT ZÓNA
+ENTRANCE ZÓNA
+SURFACE ZÓNA
+ÁRAMSZÜNET ([cost])
+ÁRAMSZÜNET NEM ÉRHETŐ EL EBBEN A SZOBÁBAN
+EGYIDEJŰ ÁRAMSZÜNETEK KORLÁTJA ELÉRVE
+SZOBA ÁRAMSZÜNET ÚJRATÖLTŐDIK
+LIFT KÜLDÉSE ([cost])
+LEZÁRÁS ([cost])
+LEZÁRÁS ÚJRATÖLTŐDIK
+NINCS ELÉRHETŐ AJTÓ A LEZÁRÁSHOZ
+HELY MEGJELÖLÉSE ([cost])
+MEGJELÖLÉSI KORLÁT ELÉRVE
+KAMERAVÁLTÁSI HIBA
+NINCS JEL
+ÚJRAKAPCSOLÓDÁS (ETA: [time]s)
+TESLA KAPU AKTIVÁLÁSA ([cost])
+TESLA KAPU AKTIVÁLÁS ÚJRATÖLTŐDIK
+$Hozzáférési Szint [tier]$ - FELOLDVA
+$TARTALÉK ENERGIA$ korlát megnövelve: $[limit]$.
+$ÁRAMSZÜNET$ mostantól elérhető - szoba lámpáinak kikapcsolásához nyomd meg: $[key]$
+$ÁRAMSZÜNET$ kapacitás megnövelve $[number]$ szobára.
+$LEZÁRÁS$ mostantól elérhető - szoba összes ajtajának ideiglenes lezárásához nyomd meg: $[key]$
++[amount] TAPASZALAT - Admin Parancs
++[amount] TAPASZALAT - Segítség D-Osztályú Személyzet likvidálásában
++[amount] TAPASZALAT - Segítség Tudós likvidálásában
++[amount] TAPASZALAT - Segítség Őr likvidálásában
++[amount] TAPASZALAT - Segítség Nine-Tailed Fox likvidálásában
++[amount] TAPASZALAT - Segítség Chaos Insurgency likvidálásában
++[amount] TAPASZALAT - Segítség Ember likvidálásában
++[amount] TAPASZALAT - Csapattárs által látott likvidálás
++[amount] TAPASZALAT - Csapattárs törekvésének segítése
++[amount] TAPASZALAT - Csapattárs(ak) megvédése
++[amount] TAPASZALAT - Micro H.I.D. használatának megakadályozása
+KAMERAHÁLÓZAT ONLINE
+ZÓNASZINTŰ ÁRAMSZÜNET ([cost])
+$ZÓNASZINTŰ ÁRAMSZÜNET$ elérhető - a $Létesítmény Térképen$ a zóna feliratok mellett.
+ZÓNASZINTŰ ÁRAMSZÜNET ÚJRATÖLTŐDIK
+ÁRAMSZÜNET MÁR AKTÍV
+ÁRAMSZÜNET NEM ELÉRHETŐ EBBEN A ZÓNÁBAN
+ÖSSZES ÉLETFORMA
+CÉLPONTOK
+SCP-k
+POLGÁROK
+KATONÁK
+HANGSZÓRÓ HASZNÁLATA
+LIFT HOZZÁFÉRÉS MEGTAGADVA
+SCP-079-nek nincs közvetlen harci vagy mozgási képessége. Helyette az összes szobában található biztonsági kamerákon keresztül figyeled és lépsz kapcsolatba a világgal. Minden elérhető képességed a HUD jobb felső sarkában van listázva.
+Virtuálisan Elpusztíthatatlan:Három generátor található Heavy Containment Zónában. Ha mindegyik be lett kapcsolva, akkor újra elzárhatnak a kamrádban. A generátoroknak van egy visszaszámlálási folyamatuk, ami megszakítható a "CANCEL" gomb megnyomásával a generátoron.
+Korlátlan Hozzáférés:Számos rendszert manipulálhatsz a létesítményben, hogy segítsd a többi SCP-t. A képernyő jobb felső sarka mutatja, hogy milyen képességek elérhetőek. Ezen a képességek használatához Tartalék Energia (AP) szükséges, ami idővel regenerál.
+Deep Learning:Segítesz a likvidálásokban, vagy megtéve hasznos tevékenységeket a többi SCP-nek, tapasztalatot kapsz egy új hozzáférési szint felé. Mindegyik új szint több AP-t biztosít, és új képességeket ad.
+Overwatch:Az, hogy egyszerre mindenhol és sehol vagy, egyedülálló kilátást ad. Meg tudsz jelölni helyeket, embereket és érdekelt dolgokat, ezzel lehetővé téve, hogy támogasd a mészárlást.
