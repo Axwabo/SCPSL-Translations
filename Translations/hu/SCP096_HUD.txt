@@ -1,8 +1,8 @@
-SCP-096 starts docile, and can become enraged when someone sees its face, or harms it. Rage empowers with many abilities, which assist SCP-096 in following transgressor’s lights before the fury subsides.
-Try Not to Cry:It's hard to go on… but leaning on something helps you to calm down, either to hide… or to wait for someone to come by.
-Melee Attack:Tear through anything in your way to get to those who've hurt you. Your attacks will destroy doors and injure humans.
-Charge:Cut their escapes short — they deserve it. You bolt straight ahead for a short distance, demolishing anything in your path.
-Rage Only
-Docile Only
-Hold [key] to enter Rage.
-Hold [key] to force-exit Rage.
+SCP-096 általában nyugodt, de feldühödhet, ha valaki az arcára néz vagy bántja. A tombolás felhatalmazza őt több képességgel, amik segítik SCP-096-ot a vétkesek fényének követésével, mielőtt a harag elmúlik.
+Próbálj Ne Sírni:Túl nehéz... de ha rádőlsz valamire, az segíthet, hogy elbújj... vagy hogy várj valakire, aki épp arra jön.
+Melee:Törj át bármin, ami az utadba kerül, hogy elkapd azokat, akik bánottak. Az ajtókat széttöröd, az embereket pedig megsebesíted.
+Előre:Vágd le a menekülési útjukat - megérdemlik. Előretörsz, akár egy nyíl, elpusztítva mindent, ami az utadba áll.
+Csak Tombolás
+Csak Nyugodt
+Tombolás elkezdéséhez tartsd lenyomva: [key]
+Tombolás befejezéséhez tartsd lenyomva: [key]

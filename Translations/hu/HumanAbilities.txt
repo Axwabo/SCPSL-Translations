@@ -1,7 +1,7 @@
-Sprint:Increases your movement speed, but also increases sound made while moving.
-Sneak:Your movements become silent, at the cost of a lot of speed.
-Inventory:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
-Unarmed:You have nothing. Find something. Anything.
-Access Card:You have an access card, it's not the best but don't lose it.
-Standard Issue:You are equipped with a Firearm, an Access Card, and some utility items.
-Armed & Dangerous:You have been consigned with heavy weaponry, an Access Device, and medical supplies.
+Sprint:Megnöveli a mozgási sebességed, de a mozgás közben keltett zajt is felerősíti.
+Settenkedés:A lépteid halkak, de sokkal lassabban mozogsz.
+Eszköztár:Nyisd meg az eszköztárad, és válaszd ki bal egérgombbal azt, amit használni szeretnél. Jobb egérgombbal kidobod a tárgyat.
+Fegyvertelen:Nincs semmid. Találj valamit. Bármit.
+Hozzáférési Kártya:Van egy kártyád, ami nem a legjobb, de ne veszítsd el.
+Alapértelmezett Helyzet:Fel vagy szerelve egy Lőfegyverrel, egy Hozzáférési Kártyával és egyéb tárgyakkal.
+Felfegyverzett & Veszélyes:Fel vagy szerelve egy Golyószóróval, egy Feltörő Eszközzel (hozzáférési kártya), és egy Elsősegély-dobozzal.
