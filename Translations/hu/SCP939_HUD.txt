@@ -1,39 +1,39 @@
-Press [key_attack] or [key_jump] to Lunge.
-Preview the voice (only you can hear this)
-LOCAL PREVIEW
-Remove the voice (hold)
-Play the voice (everyone can hear this)
-SCP-939 has killed you and has stolen your voice!
-If you do not wish your voice to be used, you can turn this feature off.
-Remember my choice
-Delete
+Lecsapáshoz nyomd meg: [key_attack] vagy [key_jump]
+Hang előnézete (csak te hallod)
+HELYI ELŐNÉZET
+Hang törlése (tartsd lenyomva)
+Hang lejátszása (mindenki hallja)
+SCP-939 megölt téged és ellopta a hangod!
+Ha nem szeretnéd, hogy a hangodat felhasználja, ezt a funkciót kikapcsolhatod.
+Választás megjegyzése
+Törlés
 OK
-More information
-SCP-939 uses a mechanic where the last few seconds of your voice chat transmission is temporarily recorded. This can be played back by SCP-939 to lure out targets.\nThe recordings are automatically discarded if you leave the server, if SCP-939 dies, or upon round restart. Turning this feature off will remove all existing recordings of your transmissions.
-Cloud cannot be deployed at this position.
-Minimal Cloud size hasn't been reached. Hold the deploy key for longer.
-SCP-939 is blind, and sees through sound. It capitalizes on mistakes, using its silent steps and frightening speed to set up ambushes and go in for the kill.
-Claw:Click to swipe your claw in a wide arc in front of you, ripping flesh and bone from your chosen victim. Whilst focusing, your primary attack will allow you to lunge at your prey. 
-Focus:Devoting your full energy to your senses, you can see prey from farther away, as well as being able to tell what type of prey they are, through the actions they perform. 
-Amnestic Cloud:Fill your air sacs with a dangerous neurochemical gas, projecting it in a radius which is determined by the time it was charged. Humans who inhale the gas lose perception of SCP-939, and cannot perform certain actions. Beware though, attacking or being attacked will reveal you for a short time.  
-With Many Voices:Humans you kill have a chance at giving you their last words, allowing you to steal their voice and utilize it to deceive others. In addition, SCP-939 can also mimic some basic sounds, such as disguising their footsteps to match humans. 
-Ultrasensitive:SCP-939 is able to sense nearby heat sources, represented by a small radius of normal vision. Outside of this however, you must rely on sound in order to track nearby prey. The louder the sound, the further away you can hear it from. The range of your vision is affected by your stamina levels. 
-Return
-Place Mimic Point
-Override position of Mimicry's sounds source
-Remove Mimic Point
-Make all sounds come from your current location
-Mimic Point set!
-Mimic Point removed!
-Mimic Point destroyed. You're out of range.
-Stolen Voices
-Play back your victims' voices
-Environmental Mimicry
-Mimic various sounds to lure out targets
-(Cooldown: [time]s)
-Footsteps
-Impersonation
-Shooting
-Other
-Previous Menu
-Next Menu
+További információ
+SCP-939 egy olyan mechanikát használ, ami miatt a hangos csevegési sugárzásod ideiglenesen tárolva van. Ezt visszajátszhatja SCP-939, hogy előcsaljon célpontokat.\nA felvételek automatikusan törlődnek, amikor elhagyod a szervert, ha SCP-939 meghal, és a kör újraindulásakor. Ha kikapcsolod ezt a funkciót, minden létező felvételt töröl a sugárzásaidból.
+Nem hozható létre Felhő ezen a helyen.
+Még nem érted el a minimális Felhőméretet. Több ideig tartsd lenyomva a lehelyező gombot.
+SCP-939 vak, és hangok alapján lát. Az emberi hibákat kihasználva, hangtalan lépéseivel és hátborzongató gyorsaságával ejti csapdába áldozatait, majd vet véget az életüknek.
+Karom:Kattints, hogy karmaidat nagy ívben meglóbáld, amivel leszakítod a célpontod húsát és csontját. Fókuszálás közben a fő támadásod lehetővé teszi, hogy messziről lecsapj áldozatodra.
+Fókusz:Ahogy az összes energiádat érzékeidre szánod, távolabbról látod az áldozatokat, és azt is tudod, hogy milyen típusú préda az a tevékenységeik alapján.
+Amnéziás Felhő:Töltsd meg légzsákjaidat egy veszélyes neurokémiai gázzal, kivetve azt egy hatókörben, aminek sugara annak a feltöltési idejétől függ. Azok az emberek, akik belélegzik ezt a gázt, nem lesznek képesek észrevenni SCP-939-et, és nem fognak tudni végrehajtani bizonyos tevékenségeket. Mégis legyél óvatos, ha támadsz, vagy megsebeznek, az rövid időre felfed téged.
+Számtalan Hangon:Az általad megölt embereknek van esélye, hogy kimondják utolsó szavaikat, ami lehetővé teszi számodra, hogy ellopd a hangjukat és felhasználd mások megtévesztésére. Továbbá SCP-939 alapvető hangokat is képes utánozni, például a lépteit emberi léptekként álcázza.
+Ultraérzékeny:SCP-939 képes a közeli hőforrásokat észlelni, amit egy rövid hatáskörű normális látás képvisel. Viszont ezen kívül a hangokra kell támaszkodnod, hogy lekövesd a közelben levő prédát. Minél hangosabb egy hang, annál messzebbről hallhatod. Az állóképességed szintje befolyásolja a látőköröd sugarát.
+Vissza
+Mimikai Pont Lehelyezése
+Utánzási hangforrások pozícójának felülírása
+Mimikai Pont Eltüntetése
+Minden hang a jelenlegi pozíciód alapján lesz hallható
+Mimikai Pont beállítva!
+Mimikai Pont törölve!
+Mimikai Pont megsemmisítve. Hatótávolságon kívül vagy.
+Ellopott Hangok
+Játszd vissza az áldozataid hangjait
+Környezeti Utánzás
+Utánozz különféle hangokat, hogy becsald a célpontokat
+(Újratöltés: [time]s)
+Lépések
+Megszemélyesítés
+Fegyvertüzelés
+Egyéb
+Előző Menü
+Következő Menü

@@ -1,23 +1,23 @@
-This soul is no longer with us.
-This corpse has expired.
-This soul has been revived too many times.
-This soul no longer wants to be revived.
-This corpse cannot be revived.
-This corpse has already been consumed.
-Only human corpses may be consumed.
-ATTACK COOLDOWN
-You have denied further resurrection from SCP-049!
-Press [key] to deny further resurrection.
-No target found.
-You're already at full health.
-This corpse is already being consumed.
-Slow and fragile, SCP-049 specializes as an ambush predator, able to quickly turn the tide of a game with hordes of "cured" personnel.
-Fast and dangerous, SCP-049-2 instances swarm ahead of their master to sow panic and chaos, creating new bodies to join the tide.
-Cardiac Attack:You reach out your gloved hand to touch the hearts of those who suffer from the Pestilence, causing their bodily functions to fail rapidly; giving you the chance to administer your cure.
-Good Sense of the Doctor:You shift your full focus to a tainted soul. You move faster, determined to rid them of the Pestilence. You’re able to gauge a victim’s distance using the foul aroma of the disease.
-The Doctor’s Call:You signal your location to your cured personnel. As they stand near you, their bodies toughen up to tolerate more damage. A great doctor always checks up on their patients, after all.
-Waste Not, Want Not:Your medical instincts are not without a need for efficiency; you can revive the cured again and again to provide more insights. It's not every day that the dead rise twice.
-Lobotomized Bloodlust:Your mind was forcefully removed, leaving you with only violence. You find yourself pursuing humans faster and faster as you chase them down …
-Voracity:The cure isn't entirely without benefits. You can regenerate your flesh using the mass of any nearby corpse. There’s no sharing however, so make sure you’re the first to the feast.
-Revive
-Hold [key]
+Ez a lélek már nincs közöttünk.
+Ez a tetem már lejárt.
+Ezt a lelket már túl sokszor éleszették újjá.
+Ez a lélek már nem akarja, hogy újjáélesszék.
+Ezt a tetemet nem lehet újjáéleszetni.
+Ez a tetem már el lett fogyasztva.
+Csak emberi tetemeket fogyaszthatsz el.
+TÁMADÁS ÚJRATÖLTŐDIK
+Megtagadtad a további újjáélesztést SCP-049-től!
+További újjáélesztés megtagadásához nyomd meg: [key]
+Nem található célpont.
+Már teljesen felgyógyultál.
+Ezt a tetemet éppen elfogyasztják.
+A lassú, illetve törékeny SCP-049 csapdába ejti áldozatait, ezzel képes a játék állását megváltoztatni egy horda "meggyógyított" zombival.
+A gyors és veszélyes SCP-049-2 példányok mesterük előtt rajzanak pánikot és káoszt keltve, és új testeket hoznak, amelyek csatlakoznak a hordához.
+Szíves Csapás:Kesztyűs kezed kinyújtod, hogy megérintsd a Pestistől szenvedők szívét, ami miatt testi funkcióik gyorsan meghibásodnak; esélyt adva neked, hogy megadd a gyógymódot.
+A Doktor Jó Érzéke:Teljesen ráfókuszálsz egy fertőzött lélekre. Gyorsabban mozogsz, elhatározva, hogy megszabadítod a Pestistől. Meg tudod mérni az áldozat távolságát a kór visszataszító aromájának használatával.
+Kérem a Következőt:Jelzed holléted a meggyógyított embereidnek. Ahogy melléd állnak, testük szívósabbá válik, hogy több seérülést tűrjenek el. Egy jó orvos végülis mindig ellenőrzi betegeit.
+Ne Pazarolj, Ne Kérj Többet:A gyógyító ösztöneid még mindig igénylik a hatékonyságot; a meggyógyítottakat újjáélesztheted újra és újra, hogy több betekintést kapj. Nem mindennapos, hogy a halottak kétszer emelkednek fel sírjukból.
+Lobotomizált Vérszomj:Az elmédet erőszakosan eltávolították, ami csak erőszakot hagyott benned. Egyre gyorsabbnak és gyorsabbnak találod magad, miközben üldözöd az embereket...
+Falánkság:A gyógymód nem teljesen haszontalan. Regenerálhatsz egy közeli tetem tömegéből. Viszont nincs osztozkodás, így bizonyosodj meg arról, hogy te vagy az első lakomázó.
+Újjáéleszt
+Tartsd: [key]
