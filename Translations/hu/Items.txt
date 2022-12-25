@@ -32,7 +32,7 @@
 36~Könnyű Páncél
 37~Harci Páncél
 38~Nehéz Páncél
-39~.44 Revolver
+39~Revolver
 40~AK
 41~Sörétes
 42~Cukorkazsák~Egy zsák, amely a következő cukorkákat tartalmazza:
