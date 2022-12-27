@@ -64,7 +64,7 @@ Biztosan ki szeretnél lépni?
 Képernyőfelbontás
 IP elrejtése
 Üdv újra, {username}!
-Stáb
+Készítők
 HITELESÍTÉS
 Csatlakozás a szerverekhez...
 <color=green>A kapcsolat létrejött</color>
