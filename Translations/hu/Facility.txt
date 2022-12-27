@@ -30,7 +30,7 @@ csatlakozott
 Elmenekültél egy Tudósként, és csatlakoztál az MTF-hez.
 Elmenekültél eg D-Osztályúként, és csatlakoztál a Chaos Insurgency-hez.
 EZ VAGY:
-Idő a kiszökésig: [escape_minutes] perc [escape_seconds] másodperc
+[escape_minutes] perc [escape_seconds] másodperc alatt szöktél meg
 Várj [time]-t, mielőtt újra használhatod a következő tárgyat: [item].
 Segítségért nyomd meg: <color=yellow><b>F1</b></color>
 Meg lettél bilincselve.\n<size=40>Kövesd az utasításokat, vagy kérj segítséget a társaidtól.</size>
@@ -39,10 +39,10 @@ A Chaos Insurgency fogságba ejtett téged.\nElőnyre tettek szert az általad k
 A KÖR <color=yellow>{0}</color> másodpercen belül indul
 A KÖR KEZDETE <color=#FF5050>SZÜNETEL</color>
 CÉLZÁSI ÉRZÉKENYSÉG CSÖKKENTÉS
-Nyomd meg a(z) [key]-t, hogy visszavond a dobást.
+Nyomd meg a(z) [key]-t dobás elvetéséhez.
 ADS Kapcsolása
-Szemlélődő Csevegés Némítása
+Szemlélődő csevegés némítása
 Zajcsökkentés engedélyezése (ajánlott)
-Automatikus (Rendszer Alapértelmezett)
-Nem Található Mikrofon!
+Automatikus (alapértelmezett)
+Nem található mikrofon.
 BEMENETI ESZKÖZ
