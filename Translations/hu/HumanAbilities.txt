@@ -3,5 +3,5 @@ Settenkedés:A lépteid halkak, de sokkal lassabban mozogsz.
 Eszköztár:Nyisd meg az eszköztárad, és válaszd ki bal egérgombbal azt, amit használni szeretnél. Jobb egérgombbal kidobod a tárgyat.
 Fegyvertelen:Nincs semmid. Találj valamit. Bármit.
 Hozzáférési Kártya:Van egy kártyád, ami nem a legjobb, de ne veszítsd el.
-Alapértelmezett Helyzet:Fel vagy szerelve egy Lőfegyverrel, egy Hozzáférési Kártyával és egyéb tárgyakkal.
-Felfegyverzett & Veszélyes:Fel vagy szerelve egy Golyószóróval, egy Feltörő Eszközzel (hozzáférési kártya), és egy Elsősegély-dobozzal.
+Alapfelszerelés:Fel vagy szerelve egy lőfegyverrel, egy Hozzáférési Kártyával és egyéb tárgyakkal.
+Fegyveres & Veszélyes:Fel vagy szerelve egy Golyószóróval, egy Feltörő Eszközzel (hozzáférési kártya), és egy Elsősegély-dobozzal.
