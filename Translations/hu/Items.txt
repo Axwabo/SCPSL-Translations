@@ -32,7 +32,7 @@
 36~Könnyű Páncél
 37~Harci Páncél
 38~Nehéz Páncél
-39~Revolver
+39~.44 Revolver
 40~AK
 41~Sörétes
 42~Cukorkazsák~Egy zsák, amely a következő cukorkákat tartalmazza:
@@ -40,5 +40,5 @@
 44~SCP-244-A~Egy ősrégi váza, fagyasztó tapintással. Nagy, fagyos ködöt készít lehelyezése után.
 45~SCP-244-B~Egy ősrégi váza, fagyasztó tapintással. Nagy, fagyos ködöt készít lehelyezése után.
 46~SCP-1853~Fejleszti a fegyverkezelési készségeket.
-47~3-X Részecske-Szétválasztó
+47~3-X Részecske-bomlasztó
 48~COM-45
