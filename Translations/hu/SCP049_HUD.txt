@@ -12,12 +12,12 @@ Nem található célpont.
 Már teljesen felgyógyultál.
 Ezt a tetemet éppen elfogyasztják.
 A lassú, illetve törékeny SCP-049 csapdába ejti áldozatait, ezzel képes a játék állását megváltoztatni egy horda "meggyógyított" zombival.
-A gyors és veszélyes SCP-049-2 példányok mesterük előtt rajzanak pánikot és káoszt keltve, és új testeket hoznak, amelyek csatlakoznak a hordához.
-Szíves Csapás:Kesztyűs kezed kinyújtod, hogy megérintsd a Pestistől szenvedők szívét, ami miatt testi funkcióik gyorsan meghibásodnak; esélyt adva neked, hogy megadd a gyógymódot.
-A Doktor Jó Érzéke:Teljesen ráfókuszálsz egy fertőzött lélekre. Gyorsabban mozogsz, elhatározva, hogy megszabadítod a Pestistől. Meg tudod mérni az áldozat távolságát a kór visszataszító aromájának használatával.
-Kérem a Következőt:Jelzed holléted a meggyógyított embereidnek. Ahogy melléd állnak, testük szívósabbá válik, hogy több seérülést tűrjenek el. Egy jó orvos végülis mindig ellenőrzi betegeit.
-Ne Pazarolj, Ne Kérj Többet:A gyógyító ösztöneid még mindig igénylik a hatékonyságot; a meggyógyítottakat újjáélesztheted újra és újra, hogy több betekintést kapj. Nem mindennapos, hogy a halottak kétszer emelkednek fel sírjukból.
-Lobotomizált Vérszomj:Az elmédet erőszakosan eltávolították, ami csak erőszakot hagyott benned. Egyre gyorsabbnak és gyorsabbnak találod magad, miközben üldözöd az embereket...
-Falánkság:A gyógymód nem teljesen haszontalan. Regenerálhatsz egy közeli tetem tömegéből. Viszont nincs osztozkodás, így bizonyosodj meg arról, hogy te vagy az első lakomázó.
+A gyors és veszélyes SCP-049-2 példányok mesterük előtt rajzanak, pánik és káoszkeltés közepette új célpontokat keresnek, amelyek csatlakozhatnak a hordához.
+Szívérintés:Kesztyűs kezét kinyújtva megérinti a Pestistől szenvedők szívét, amely következtében a motoros funkcióik gyorsan romlani kezdenek; így lehetősége nyílik a gyógymód beadására.
+A Doktor Jó Érzéke:Teljes figyelmét egy megfertőzött lélekre irányítja. Gyorsabban, eltökéltebben mozog, hogy megszabadítsa őt a Pestistől. Képes felmérni az áldozat távolságát a betegség bűzös illata alapján.
+A Doktor Hívása:Jelzi helyzetét a meggyógyított lelkeknek. Ahogy a Doktor közelében tartózkodnak, testük ellenállóképessége megnövekszik, ezáltal több sérülést képesek elviselni. Egy nagyszerű orvos végül is mindig ellenőrzi a betegeit.
+Ne Pazarolj, Ne Akarj:Orvosi ösztönei nem nélkülözik a hatékonyságot; újra és újra felélesztheti a meggyógyítottakat, hogy további ismereteket szerezzen. Nem mindennapos, hogy a halottak kétszer emelkednek fel sírjukból.
+Lobotomizált Vérszomj:Az elméjét erőszakkal eltávolították, ami csak erőszakot hagyott benne. Egyre gyorsabbnak és gyorsabbnak találod magad, miközben üldözöd az embereket...
+Falánkság:A gyógymód nem teljesen haszontalan. Regenerálhatsz egy közeli tetemből. Viszont nincs osztozkodás, így bizonyosodj meg arról, hogy te vagy az első lakomázó.
 Újjáéleszt
 Tartsd: [key]
