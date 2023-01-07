@@ -63,12 +63,12 @@ ZÓNASZINTŰ ÁRAMSZÜNET ÚJRATÖLTŐDIK
 ÖSSZES ÉLETFORMA
 CÉLPONTOK
 SCP-k
-POLGÁROK
+CIVILEK
 KATONÁK
 HANGSZÓRÓ HASZNÁLATA
 LIFT HOZZÁFÉRÉS MEGTAGADVA
-SCP-079-nek nincs közvetlen harci vagy mozgási képessége. Helyette az összes szobában található biztonsági kamerákon keresztül figyeled és lépsz kapcsolatba a világgal. Minden elérhető képességed a HUD jobb felső sarkában van listázva.
+SCP-079-nek nincs közvetlen harci vagy mozgási képessége. Helyette a minden szobában található biztonsági kamerákon keresztül figyeled és lépsz kapcsolatba a világgal. Minden elérhető képességed a HUD jobb felső sarkában van listázva.
 Virtuálisan Elpusztíthatatlan:Három generátor található Heavy Containment Zónában. Ha mindegyik be lett kapcsolva, akkor újra elzárhatnak a kamrádban. A generátoroknak van egy visszaszámlálási folyamatuk, ami megszakítható a "CANCEL" gomb megnyomásával a generátoron.
-Korlátlan Hozzáférés:Számos rendszert manipulálhatsz a létesítményben, hogy segítsd a többi SCP-t. A képernyő jobb felső sarka mutatja, hogy milyen képességek elérhetőek. Ezen a képességek használatához Tartalék Energia (AP) szükséges, ami idővel regenerál.
-Deep Learning:Segítesz a likvidálásokban, vagy megtéve hasznos tevékenységeket a többi SCP-nek, tapasztalatot kapsz egy új hozzáférési szint felé. Mindegyik új szint több AP-t biztosít, és új képességeket ad.
-Overwatch:Az, hogy egyszerre mindenhol és sehol vagy, egyedülálló kilátást ad. Meg tudsz jelölni helyeket, embereket és érdekelt dolgokat, ezzel lehetővé téve, hogy támogasd a mészárlást.
+Korlátlan Hozzáférés:Számos rendszert manipulálhatsz a létesítményben, hogy segítsd a többi SCP-t. A képernyő jobb felső sarkában láthatod, hogy milyen képességek állnak rendelkezésre. Ezen a képességek használatához Tartalék Energia (AP) szükséges, ami idővel visszatöltődik.
+Mély Tanulás:Ha segítesz a likvidálásokban, vagy segíted a többi SCP munkáját, tapasztalatot kapsz egy új hozzáférési szint feloldásához. Minden új szint több AP-t és új képességeket biztosít.
+Overwatch:Az, hogy egyszerre mindenhol és sehol sem vagy, egyedülálló perspektívát biztosít. Megjelölhetsz pozíciókat, embereket és fontos helyszíneket, ezzel elősegítve a mészárlást.
